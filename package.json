@@ -1,6 +1,7 @@
 {
   "name": "emilus",
   "version": "2.0.1",
+  "homepage": "https://github.com/ItDevMikhail/test-task-1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
